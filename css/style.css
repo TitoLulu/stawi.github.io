@@ -7,6 +7,9 @@ body{
 	opacity:0.8;
 	
 }
+@-ms-viewport{
+	width: device-width;
+}
 .navbar{
 	margin-bottom: 0px;
 }
