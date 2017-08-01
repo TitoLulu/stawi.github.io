@@ -52,15 +52,16 @@ body{
 /*physical address*/
 .companyAddress{
 	text-align: center;
-	font-weight: bold;
+	font-family: sans-serif;
 	font-size: 21px;
+	color: #FF9900;
 	
 }
 
 .map{
 	margin-top: 4vh;
 	max-height: 60vh;
-	margin-left: 6vw;
+	margin-left: 5vw;
 
 
 }
