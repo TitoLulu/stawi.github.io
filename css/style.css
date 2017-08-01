@@ -60,6 +60,12 @@ body{
 .fa {
 	margin-left:2vw;
 }
+.social #phone{
+	float: left;
+}
+.social #num{
+	float: left;
+}
 .map{
 	margin-top: 4vh;
 	max-height: 60vh;
