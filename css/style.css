@@ -62,10 +62,13 @@ body{
 }*/
 .social #phone{
 	float: left;
+	align-items: center;
+	width: 20vw;
 }
 .social #num{
 	float: left;
-
+	font-weight: 16px;
+	width: 80vw;
 }
 .map{
 	margin-top: 4vh;
