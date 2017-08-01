@@ -49,17 +49,12 @@ body{
 	font-weight: bold;
 }
 
-.social {
-  display: inline-block;
-  width: 3em;
-  height: 3em;
-  margin-right: 1em;
-  text-align: center;
-
-}
 /*.fa {
 	margin-left:2vw;
 }*/
+.social{
+	margin-left: 4vw;
+}
 .social #phone{
 	float: left;
 	align-items: center;
@@ -67,7 +62,7 @@ body{
 }
 .social #num{
 	float: left;
-	font-weight: 16px;
+	font-size: 16px;
 	width: 80vw;
 }
 .map{
