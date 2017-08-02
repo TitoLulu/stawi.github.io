@@ -31,7 +31,7 @@ body{
 }
 /*vision statement header style*/
 #story{
-	height:70vh; margin-top:20px;background-color: orange;opacity: 70%;
+	height:70vh; margin-top:20px;background-color: orange;opacity: 70%;margin-bottom: 10px;
 	text-align: center;
 	font-family: sans-serif;
 	font-size: 16px;
