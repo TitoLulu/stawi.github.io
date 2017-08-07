@@ -11,8 +11,11 @@ body{
 
 .navbar{
 	margin-bottom: 0px;
-	border-radius: none;
+
+}
+.nav {
 	background-color: #153d52;
+	border-radius: 0;
 }
 
 
