@@ -11,12 +11,10 @@ body{
 
 .navbar{
 	margin-bottom: 0px;
+	background-color: #153d52;
 
 }
-.nav {
-	background-color: #153d52;
-	border-radius: 0;
-}
+
 
 
 #fter{
