@@ -8,9 +8,7 @@ body{
 	max-height: 100vh;
 	
 }
-@-ms-viewport{
-	width: device-width;
-}
+
 .navbar{
 	margin-bottom: 0px;
 }
