@@ -12,6 +12,7 @@ body{
 .navbar{
 	margin-bottom: 0px;
 	background-color: #FF9900;
+	border: 0;
 
 }
 .nav  a{
