@@ -11,14 +11,16 @@ body{
 }
 
 .navbar{
-	margin-bottom: 0px;
+	margin-bottom: 0px !important;
 	border: 0;
 
 }
 .nav  a{
 	color: green;
 }
-
+.carousel-caption {
+	margin-bottom: 0px !important;
+}
 
 
 #fter{
