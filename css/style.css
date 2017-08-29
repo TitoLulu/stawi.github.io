@@ -17,11 +17,11 @@ body{
 	border: 0;
 
 }
-.nav  a{
-	color: green;
-}
-.carousel-caption {
-	margin-bottom: 0px !important;
+
+#sld{
+	top: 0px;
+	margin: 0px;
+	padding: 0px;
 }
 
 
