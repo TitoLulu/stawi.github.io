@@ -28,8 +28,8 @@ body{
 .carousel-inner .item{
 	height: 100%;
 }
-.item img{
-	height: 100%;
+
+.d-block .img-fluid{
 	width: 100%;
 }
 
