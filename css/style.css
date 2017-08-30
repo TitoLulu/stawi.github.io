@@ -28,8 +28,8 @@ body{
 .carousel-inner .item{
 	height: 100%;
 }
-.item #img{
-	height: inherit;
+.item img{
+	height: 100%;
 }
 
 
