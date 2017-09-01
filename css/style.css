@@ -25,6 +25,7 @@ Carousel style
 }
 #slider .item {
 	height: 400px;
+	margin-bottom: 0px;
 }
 
 #slide1 {
