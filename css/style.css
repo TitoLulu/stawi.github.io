@@ -86,6 +86,9 @@ media queries
 	background-repeat: no-repeat;
 	background-size: 100vw 310px;
 }
+#story{
+
+}
 
 }
 
@@ -142,7 +145,7 @@ footer style
 vision statement header style
 ----------------------------------------------------------------------------*/
 #story{
-	max-height: 60vh;
+	max-height: 70vh;
 	margin-top:20px;
 	background-color: orange;
 	opacity: 70%;
