@@ -120,7 +120,9 @@ media queries
 }
 
  
-
+/*----------------------------------------------------------------------
+footer style
+-----------------------------------------------------------------------*/
 
 #fter{
 	
@@ -136,7 +138,9 @@ media queries
 	margin-top: 10px;
 	margin: 0px;
 }
-/*vision statement header style*/
+/*---------------------------------------------------------------------------
+vision statement header style
+----------------------------------------------------------------------------*/
 #story{
 	max-height: 60vh;
 	margin-top:20px;
@@ -149,7 +153,9 @@ media queries
 #story h2{
 	font-weight: bold;
 }
-/*physical address*/
+/*---------------------------------------------------------------------------
+contact us page style
+-----------------------------------------------------------------------------*/
 .companyAddress{
 	text-align: center;
 	font-family: sans-serif;
@@ -162,22 +168,21 @@ media queries
 .map{
 	margin-top: 4vh;
 	max-height: 60vh;
-	margin-left: 5vw;
+	margin-left: 4vw;
 
 
 }
 
 
-/*board*/
+/*------------------------------------------------------------------------------
+board
+----------------------------------------------------------------------------------*/
 #board {
 	text-align: center;
 	font-size: 21px;
 }
 /*management*/
-#management{
-	text-align: center;
-	font-size: 21px;
-}
+
 
 #boxContainer{
 	height:350px; margin-top: 20px;  position:absolute;
