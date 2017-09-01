@@ -27,12 +27,20 @@ Carousel style
 #slide1 {
 	background-image: url('../images/22.jpg');
 }
+#slide2{
+	background-image: url('../images/28.jpg');
+}
+#slide3{
+	background-image: url('../images/27.jpg');
+}
+#slide4{
+	background-image: url('../images/33.jpg');
+}
 #sld{
 	top: 0px;
 	margin: 0px;
 	padding: 0px;
 	width: 100%;
-	height: 80vh;
 }
 
 
