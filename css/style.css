@@ -198,6 +198,9 @@ media object
 	height: 84px;
 	width:64px;
 }
+#prd{
+	margin-top: 10px;
+}
 #prd h4{
 	font-weight: bold; font-family: sans-serif; color: red;
 }
