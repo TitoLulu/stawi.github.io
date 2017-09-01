@@ -27,6 +27,47 @@ Carousel style
 #slide1 {
 	background-image: url('../images/image1.jpg');
 	background-repeat: no-repeat;
+	background-size: 100vh 400px;
+}
+#slide2{
+	background-image: url('../images/image2.jpg');
+	background-repeat: no-repeat;
+	background-size: 100vh 400px;
+
+}
+#slide3{
+	background-image: url('../images/image3.jpg');
+	background-repeat: no-repeat;
+	background-size: 100vh 400px;
+}
+#slide4{
+	background-image: url('../images/image4.jpg');
+	background-repeat: no-repeat;
+	background-size: 100vh 400px;
+}
+
+/*-------------------------------------------------------------------
+media queries
+-------------------------------------------------------------------*/
+
+/*phones*/
+@media (max-width: 480px;){
+
+}
+
+/*tablets*/
+@media (max-width: 768px;){
+
+}
+
+/*small desktops*/
+@media (max-width:979px;){
+#slider .item {
+	height: 500px;
+}
+#slide1 {
+	background-image: url('../images/image1.jpg');
+	background-repeat: no-repeat;
 	background-size: 100vh 500px;
 }
 #slide2{
@@ -44,6 +85,9 @@ Carousel style
 	background-image: url('../images/image4.jpg');
 	background-repeat: no-repeat;
 	background-size: 100vh 500px;
+}
+
+
 }
 
  
