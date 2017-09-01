@@ -57,6 +57,30 @@ media queries
 
 /*tablets*/
 @media (max-width: 768px;){
+#slider .item {
+	height: 310px;
+}
+#slide1 {
+	background-image: url('../images/image1.jpg');
+	background-repeat: no-repeat;
+	background-size: 100vw 310px;
+}
+#slide2{
+	background-image: url('../images/image2.jpg');
+	background-repeat: no-repeat;
+	background-size: 100vw 310px;
+
+}
+#slide3{
+	background-image: url('../images/image3.jpg');
+	background-repeat: no-repeat;
+	background-size: 100vw 310px;
+}
+#slide4{
+	background-image: url('../images/image4.jpg');
+	background-repeat: no-repeat;
+	background-size: 100vw 310px;
+}
 
 }
 
