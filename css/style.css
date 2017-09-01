@@ -27,23 +27,23 @@ Carousel style
 #slide1 {
 	background-image: url('../images/image1.jpg');
 	background-repeat: no-repeat;
-	background-size: 100vh 400px;
+	background-size: 100vw 400px;
 }
 #slide2{
 	background-image: url('../images/image2.jpg');
 	background-repeat: no-repeat;
-	background-size: 100vh 400px;
+	background-size: 100vw 400px;
 
 }
 #slide3{
 	background-image: url('../images/image3.jpg');
 	background-repeat: no-repeat;
-	background-size: 100vh 400px;
+	background-size: 100vw 400px;
 }
 #slide4{
 	background-image: url('../images/image4.jpg');
 	background-repeat: no-repeat;
-	background-size: 100vh 400px;
+	background-size: 100vw 400px;
 }
 
 /*-------------------------------------------------------------------
@@ -68,23 +68,23 @@ media queries
 #slide1 {
 	background-image: url('../images/image1.jpg');
 	background-repeat: no-repeat;
-	background-size: 100vh 500px;
+	background-size: 100vw 500px;
 }
 #slide2{
 	background-image: url('../images/image2.jpg');
 	background-repeat: no-repeat;
-	background-size: 100vh 500px;
+	background-size: 100vw 500px;
 
 }
 #slide3{
 	background-image: url('../images/image3.jpg');
 	background-repeat: no-repeat;
-	background-size: 100vh 500px;
+	background-size: 100vw 500px;
 }
 #slide4{
 	background-image: url('../images/image4.jpg');
 	background-repeat: no-repeat;
-	background-size: 100vh 500px;
+	background-size: 100vw 500px;
 }
 
 
