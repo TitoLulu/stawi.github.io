@@ -194,6 +194,10 @@ media object
 	font-family: sans-serif;
 	font-size: 16px;
 }
+.media-object{
+	height: 64px;
+	width:64px;
+}
 #prd h4{
 	font-weight: bold; font-family: sans-serif; color: red;
 }
