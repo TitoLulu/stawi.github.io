@@ -22,7 +22,7 @@ body{
 Carousel style 
 -------------------------------------------------------------------*/
 #slider{
-	margin-top: 10px;
+	margin-top: 0px;
 }
 #slider .item {
 	height: 400px;
