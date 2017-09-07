@@ -165,7 +165,7 @@ footer style
 vision statement header style
 ----------------------------------------------------------------------------*/
 #story{
-	max-height: 70vh;
+	max-height: 400px;
 	margin-top:20px;
 	background-color: orange;
 	opacity: 70%;
@@ -173,6 +173,9 @@ vision statement header style
 	font-family: sans-serif;
 	font-size: 16px;
 	margin-bottom: 10px;
+}
+.content{
+	overflow: auto;
 }
 #story h2{
 	font-weight: bold;
