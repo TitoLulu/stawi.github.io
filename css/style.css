@@ -57,6 +57,9 @@ media queries
 
 /*phones*/
 @media (max-width: 480px;){
+.map{
+	height: 300px;
+}
 
 }
 
