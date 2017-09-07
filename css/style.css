@@ -57,7 +57,14 @@ media queries
 
 /*phones*/
 @media (max-width: 480px;){
-
+.companyAddress{
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	color: #FF9900;
+	
+}
 
 }
 
