@@ -137,7 +137,8 @@ media queries
 	overflow:auto;
 }
 #impact{
-	height: 300px;
+	height: 580px;
+	overflow: scroll;
 }
 
 }
@@ -236,7 +237,7 @@ board
 ----------------------------------------------------------------------------------*/
 #board {
 	text-align: center;
-	font-size: 21px;
+	font-size: 16px;
 }
 /*management*/
 
