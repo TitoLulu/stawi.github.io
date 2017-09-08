@@ -21,8 +21,9 @@ body{
 /*------------------------------------------------------------------
 Carousel style 
 -------------------------------------------------------------------*/
-#slider .carousel-inner{
+.carousel-inner{
 	padding-bottom: 0;
+	margin-bottom: 0;
 }
 #slider{
 	margin-top: 0px;
