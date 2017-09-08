@@ -37,22 +37,30 @@ Carousel style
 	background-image: url('../images/image1.jpg');
 	background-repeat: no-repeat;
 	background-size: 100vw 400px;
+	padding-bottom: 0;
+	margin-bottom: 0;
 }
 #slide2{
 	background-image: url('../images/image2.jpg');
 	background-repeat: no-repeat;
 	background-size: 100vw 400px;
+	padding-bottom: 0;
+	margin-bottom: 0;
 
 }
 #slide3{
 	background-image: url('../images/image3.jpg');
 	background-repeat: no-repeat;
 	background-size: 100vw 400px;
+	padding-bottom: 0;
+	margin-bottom: 0;
 }
 #slide4{
 	background-image: url('../images/image4.jpg');
 	background-repeat: no-repeat;
 	background-size: 100vw 400px;
+	padding-bottom: 0;
+	margin-bottom: 0;
 }
 
 /*-------------------------------------------------------------------
@@ -90,22 +98,30 @@ media queries
 	background-image: url('../images/image1.jpg');
 	background-repeat: no-repeat;
 	background-size: 100vw 310px;
+	padding-bottom: 0;
+	margin-bottom: 0;
 }
 #slide2{
 	background-image: url('../images/image2.jpg');
 	background-repeat: no-repeat;
 	background-size: 100vw 310px;
+	padding-bottom: 0;
+	margin-bottom: 0;
 
 }
 #slide3{
 	background-image: url('../images/image3.jpg');
 	background-repeat: no-repeat;
 	background-size: 100vw 310px;
+	padding-bottom: 0;
+	margin-bottom: 0;
 }
 #slide4{
 	background-image: url('../images/image4.jpg');
 	background-repeat: no-repeat;
 	background-size: 100vw 310px;
+	padding-bottom: 0;
+	margin-bottom: 0;
 }
 #story{
 	height: 310px;
