@@ -84,14 +84,6 @@ media queries
 	font-size: 12px;
 	
 }
-.content{
-	height: 400px;
-	overflow:auto;
-}
-#impact{
-	height: 580px;
-	overflow: scroll;
-}
 
 }
 
@@ -181,7 +173,7 @@ footer style
 	
 	background:rgb(232,12,17);
 	width:100%;
-	height: 7.0vh;
+	height: 9.0vh;
 	line-height: 80px;
 	text-align: center;
 	padding-bottom: 0;
